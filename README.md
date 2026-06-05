@@ -1,4 +1,4 @@
-# -CodeAlpha_TaskAutomation
+# CodeAlpha_TaskAutomation
 # Email Extractor
 
 This project extracts email addresses from a text file and saves them to another file.
